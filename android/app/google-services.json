@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416379734601",
+    "project_id": "crushly-app",
+    "storage_bucket": "crushly-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416379734601:android:6107a187e956802b918d98",
+        "android_client_info": {
+          "package_name": "com.crushly.tss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ0GoQ2cM7HskKIyDTQPtlI4joBSJt--Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
